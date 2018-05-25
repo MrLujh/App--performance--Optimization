@@ -7,7 +7,7 @@ APP启动时间优化
 * [iOS App 启动性能优化](https://juejin.im/entry/598d1fc16fb9a03c3a25d150)
 * [[iOS]一次立竿见影的启动时间优化](https://juejin.im/post/5a31190751882559e225a775)
 * [阿里数据iOS端启动速度优化的一些经验](https://juejin.im/entry/59985a32518825242860f59a)
-* [MVVM 介绍](http://objccn.io/issue-13-1/)
+* [IOS App 启动优化](https://www.jianshu.com/p/6f14fad90d5e)
 * [写给iOS小白的MVVM教程(序)](http://www.ios122.com/2015/10/mvvm_start/)
 * [多方位全面解析：如何正确地写好一个界面](http://ios.jobbole.com/83657/)
 * [iOS应用架构谈 view层的组织和调用方案](http://www.cocoachina.com/ios/20150525/11919.html)
