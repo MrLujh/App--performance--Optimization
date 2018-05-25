@@ -3,7 +3,7 @@ APP启动时间优化
 
 ### APP启动时间优化学习文章
 * [iOS App 启动时间优化](https://juejin.im/entry/59e6fb7051882521b45fc1bc)
-* [面向协议的 MVVM 架构介绍](https://realm.io/cn/news/doios-natasha-murashev-protocol-oriented-mvvm/)
+* [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/)
 * [MVVM With ReactiveCocoa](http://www.cocoachina.com/ios/20160330/15823.html)
 * [#1 更轻量的 View Controllers](http://objccn.io/issue-1/)
 * [ReactiveCocoa 和 MVVM 入门](http://yulingtianxia.com/blog/2015/05/21/ReactiveCocoa-and-MVVM-an-Introduction/)
