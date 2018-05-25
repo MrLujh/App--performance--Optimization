@@ -5,7 +5,7 @@ APP启动时间优化
 * [iOS App 启动时间优化](https://juejin.im/entry/59e6fb7051882521b45fc1bc)
 * [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/)
 * [iOS App 启动性能优化](https://juejin.im/entry/598d1fc16fb9a03c3a25d150)
-* [#1 更轻量的 View Controllers](http://objccn.io/issue-1/)
+* [[iOS]一次立竿见影的启动时间优化](https://juejin.im/post/5a31190751882559e225a775)
 * [ReactiveCocoa 和 MVVM 入门](http://yulingtianxia.com/blog/2015/05/21/ReactiveCocoa-and-MVVM-an-Introduction/)
 * [MVVM 介绍](http://objccn.io/issue-13-1/)
 * [写给iOS小白的MVVM教程(序)](http://www.ios122.com/2015/10/mvvm_start/)
