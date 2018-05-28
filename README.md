@@ -23,8 +23,8 @@ APP性能分析
 ### APP崩溃日志学习文章
 * [iOS应用崩溃日志分析](http://www.cocoachina.com/industry/20130725/6677.html)
 * [全面的理解和分析IOS的崩溃日志](https://www.jianshu.com/p/5119f76d93d6)
-* [iOS App 启动性能优化](https://juejin.im/entry/598d1fc16fb9a03c3a25d150)
-* [[iOS]一次立竿见影的启动时间优化](https://juejin.im/post/5a31190751882559e225a775)
+* [iOS开发技巧－崩溃分析](https://www.jianshu.com/p/77660e626874)
+* [iOS崩溃堆栈信息的符号化解析](https://www.jianshu.com/p/953f0961157a)
 * [阿里数据iOS端启动速度优化的一些经验](https://juejin.im/entry/59985a32518825242860f59a)
 * [IOS App 启动优化](https://www.jianshu.com/p/6f14fad90d5e)
 * [如何优化 App 的启动时间](http://www.cocoachina.com/ios/20161102/17931.html)
