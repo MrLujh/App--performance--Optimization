@@ -25,7 +25,7 @@ APP性能分析
 * [全面的理解和分析IOS的崩溃日志](https://www.jianshu.com/p/5119f76d93d6)
 * [iOS开发技巧－崩溃分析](https://www.jianshu.com/p/77660e626874)
 * [iOS崩溃堆栈信息的符号化解析](https://www.jianshu.com/p/953f0961157a)
-* [阿里数据iOS端启动速度优化的一些经验](https://juejin.im/entry/59985a32518825242860f59a)
+* [iOS被开发者遗忘在角落的NSException-其实它很强大](https://www.jianshu.com/p/05aad21e319e)
 * [IOS App 启动优化](https://www.jianshu.com/p/6f14fad90d5e)
 * [如何优化 App 的启动时间](http://www.cocoachina.com/ios/20161102/17931.html)
 * [WWDC2016-406-Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406)
