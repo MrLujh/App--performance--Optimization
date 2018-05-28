@@ -28,7 +28,7 @@ APP性能分析
 * [iOS被开发者遗忘在角落的NSException-其实它很强大](https://www.jianshu.com/p/05aad21e319e)
 * [浅谈iOS Crash（一）](https://www.jianshu.com/p/3261493e6d9e)
 * [浅谈iOS Crash（二）](https://www.jianshu.com/p/33ee5e7d312c)
-* [WWDC2016-406-Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406)
+* [网易iOS App运行时Crash自动防护实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488311&amp;idx=1&amp;sn=0db090c8d4a5efafa47f00af4b3f174f&source=41#wechat_redirect)
 * [WWDC2017-413-App Startup Time:Past,Present,and Future](https://developer.apple.com/videos/play/wwdc2017/413)
 * [如何精准度量iOSAPP启动时间](https://www.jianshu.com/p/c14987eee107)
 * [优化 App 的启动时间-杨萧玉](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time)
