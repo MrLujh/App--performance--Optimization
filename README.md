@@ -34,8 +34,8 @@ APP性能分析
 
 ### 体积优化学习文章
 * [iOS APP Slicing 实践](http://www.sohu.com/a/117914159_505779)
-* [全面的理解和分析IOS的崩溃日志](https://www.jianshu.com/p/5119f76d93d6)
-* [iOS开发技巧－崩溃分析](https://www.jianshu.com/p/77660e626874)
+* [理解Bitcode：一种中间代码](http://www.cocoachina.com/ios/20150817/13078.html)
+* [iOS开发 - Bitcode适配指南](https://blog.csdn.net/skylin19840101/article/details/50205189)
 * [iOS崩溃堆栈信息的符号化解析](https://www.jianshu.com/p/953f0961157a)
 * [iOS被开发者遗忘在角落的NSException-其实它很强大](https://www.jianshu.com/p/05aad21e319e)
 * [浅谈iOS Crash（一）](https://www.jianshu.com/p/3261493e6d9e)
