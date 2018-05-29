@@ -32,3 +32,15 @@ APP性能分析
 * [iOS中Crash的处理](https://www.jianshu.com/p/fe13105ba33a)
 * [iOS崩溃crash大解析](https://www.jianshu.com/p/fe13105ba33a)
 
+### 体积优化学习文章
+* [iOS APP Slicing 实践](http://www.sohu.com/a/117914159_505779)
+* [全面的理解和分析IOS的崩溃日志](https://www.jianshu.com/p/5119f76d93d6)
+* [iOS开发技巧－崩溃分析](https://www.jianshu.com/p/77660e626874)
+* [iOS崩溃堆栈信息的符号化解析](https://www.jianshu.com/p/953f0961157a)
+* [iOS被开发者遗忘在角落的NSException-其实它很强大](https://www.jianshu.com/p/05aad21e319e)
+* [浅谈iOS Crash（一）](https://www.jianshu.com/p/3261493e6d9e)
+* [浅谈iOS Crash（二）](https://www.jianshu.com/p/33ee5e7d312c)
+* [网易iOS App运行时Crash自动防护实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488311&amp;idx=1&amp;sn=0db090c8d4a5efafa47f00af4b3f174f&source=41#wechat_redirect)
+* [iOS中Crash的处理](https://www.jianshu.com/p/fe13105ba33a)
+* [iOS崩溃crash大解析](https://www.jianshu.com/p/fe13105ba33a)
+
