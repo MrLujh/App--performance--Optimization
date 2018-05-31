@@ -40,7 +40,5 @@ APP性能分析
 * [APP瘦身之资源优化篇](https://www.jianshu.com/p/c4f79bb23817)
 * [AppDelegate瘦身指南](http://www.cocoachina.com/apple/20180316/22638.html)
 * [WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
-* [网易iOS App运行时Crash自动防护实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488311&amp;idx=1&amp;sn=0db090c8d4a5efafa47f00af4b3f174f&source=41#wechat_redirect)
-* [iOS中Crash的处理](https://www.jianshu.com/p/fe13105ba33a)
-* [iOS崩溃crash大解析](https://www.jianshu.com/p/fe13105ba33a)
+
 
