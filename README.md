@@ -37,7 +37,7 @@ APP性能分析
 * [理解Bitcode：一种中间代码](http://www.cocoachina.com/ios/20150817/13078.html)
 * [iOS开发 - Bitcode适配指南](https://blog.csdn.net/skylin19840101/article/details/50205189)
 * [如何使用 iOS 9 App 瘦身功能](https://segmentfault.com/a/1190000004268671)
-* [iOS被开发者遗忘在角落的NSException-其实它很强大](https://www.jianshu.com/p/05aad21e319e)
+* [APP瘦身之资源优化篇](https://www.jianshu.com/p/c4f79bb23817)
 * [浅谈iOS Crash（一）](https://www.jianshu.com/p/3261493e6d9e)
 * [浅谈iOS Crash（二）](https://www.jianshu.com/p/33ee5e7d312c)
 * [网易iOS App运行时Crash自动防护实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488311&amp;idx=1&amp;sn=0db090c8d4a5efafa47f00af4b3f174f&source=41#wechat_redirect)
