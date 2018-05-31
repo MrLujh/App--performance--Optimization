@@ -42,4 +42,13 @@
 * [AppDelegate瘦身指南](http://www.cocoachina.com/apple/20180316/22638.html)
 * [WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
 
+### 内存优化学习文章
+* [iOS APP Slicing 实践](http://www.sohu.com/a/117914159_505779)
+* [理解Bitcode：一种中间代码](http://www.cocoachina.com/ios/20150817/13078.html)
+* [iOS开发 - Bitcode适配指南](https://blog.csdn.net/skylin19840101/article/details/50205189)
+* [如何使用 iOS 9 App 瘦身功能](https://segmentfault.com/a/1190000004268671)
+* [APP瘦身之资源优化篇](https://www.jianshu.com/p/c4f79bb23817)
+* [AppDelegate瘦身指南](http://www.cocoachina.com/apple/20180316/22638.html)
+* [WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
+
 
