@@ -1,5 +1,6 @@
-# StartTimeOptimization
-APP性能分析
+# App--performance--Optimization
+
+## APP性能分析 --性能优化梳理：启动优化、崩溃日志 、 安装包瘦身、内存优化、
 
 ### APP启动时间优化学习文章
 * [iOS App 启动时间优化](https://juejin.im/entry/59e6fb7051882521b45fc1bc)
